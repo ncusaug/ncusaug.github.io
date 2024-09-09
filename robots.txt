@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncusaug.github.io/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/app/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/assets/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/css/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/includes/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/item/sitemap.html.gz
+Sitemap: https://ncusaug.github.io/src/sitemap.html.gz
